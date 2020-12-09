@@ -11,9 +11,7 @@
 
 - 📝 I regulary write articles on [https://sinlevantar.blogspot.com/](https://sinlevantar.blogspot.com/)
 
-- 💬 Ask me about **CSS**
-
-- 📫 How to reach me **lucasmaidanasoy@gmail.com**
+- 📫 Mail me **lucasmaidanasoy@gmail.com**
 
 - 📄 Know about my experiences [https://www.notion.so/lucasmaidana/EN-Lucas-Maidana-e7daae06ab0747858d61ce7c8f0e9430](https://www.notion.so/lucasmaidana/EN-Lucas-Maidana-e7daae06ab0747858d61ce7c8f0e9430)
 
