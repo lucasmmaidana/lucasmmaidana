@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/lucasmaidana/Lucas-Maidana-Portfolio-7003fc1d471b467ca8e331723615ffda](https://www.notion.so/lucasmaidana/Lucas-Maidana-Portfolio-7003fc1d471b467ca8e331723615ffda)
+- 👨‍💻 All of my projects are available at [https://www.lucasmaidana.me/](lucasmaidana.me)
 
 - 📝 I regulary write articles on [https://sinlevantar.blogspot.com/](https://sinlevantar.blogspot.com/)
 
