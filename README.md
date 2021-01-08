@@ -13,7 +13,7 @@
 
 - 📫 Mail me **lucasmaidanasoy@gmail.com**
 
-- 📄 Know about my experiences [https://www.notion.so/lucasmaidana/EN-Lucas-Maidana-e7daae06ab0747858d61ce7c8f0e9430](https://www.notion.so/lucasmaidana/EN-Lucas-Maidana-e7daae06ab0747858d61ce7c8f0e9430)
+- 📄 Know about my experiences in my [https://www.linkedin.com/in/lucasmaidana/](LinkedIn profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
