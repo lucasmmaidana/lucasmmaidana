@@ -13,7 +13,7 @@
 
 - 📫 Mail me [mailto:lucasmaidanasoy@gmail.com](mailto:lucasmaidanasoy@gmail.com)
 
-- 📄 Know about my experiences and education in my [linkedin.com/in/lucasmaidana/](LinkedIn profile)
+- 📄 Know about my experiences and education in my [linkedin.com/in/lucasmaidana/](https://linkedin.com/in/lucasmaidana/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
