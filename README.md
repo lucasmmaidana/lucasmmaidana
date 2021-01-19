@@ -11,7 +11,7 @@
 
 - 📝 I write about CSS at [my blog](https://sinlevantar.blogspot.com/)
 
-- 📫 Mail me [mailto:lucasmaidanasoy@gmail.com](mailto:lucasmaidanasoy@gmail.com)
+- 📫 Mail me [lucasmaidanasoy@gmail.com](mailto:lucasmaidanasoy@gmail.com)
 
 - 📄 Know about my experiences and education in my [linkedin.com/in/lucasmaidana/](https://linkedin.com/in/lucasmaidana/)
 
