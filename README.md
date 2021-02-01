@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**⚛ & **Next.js**
 
-- 👨‍💻 All of my projects are available at [lucasmaidana.me/](lucasmaidana.me) 🌵
+- 👨‍💻 All of my projects are available at [lucasmaidana.me](https://lucasmaidana.me) 🌵
 
 - 📝 I write about CSS at [my blog](https://sinlevantar.blogspot.com/)
 
