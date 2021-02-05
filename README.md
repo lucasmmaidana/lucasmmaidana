@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Frontend Developer from Argentina</h3>
+<h3 align="center">Frontend Developer and Engineering student from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmmaidana&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmmaidana" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lucasmmaidana" target="blank"><img src="https://img.shields.io/twitter/follow/lucasmmaidana?logo=twitter&style=for-the-badge" alt="lucasmmaidana" /></a> </p>
 
-- 🌱 I’m currently learning **React**⚛ & **Next.js**
+- 🌱 I code mostly in **React**⚛ & **Next.js**
+
+- Passionate for CSS, UX and accessibility 🤝
 
 - 👨‍💻 All of my projects are available at [lucasmaidana.me](https://lucasmaidana.me) 🌵
 
