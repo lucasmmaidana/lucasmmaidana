@@ -18,7 +18,7 @@
 - 📄 Know about my experiences and education in my [linkedin.com/in/lucasmaidana/](https://linkedin.com/in/lucasmaidana/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p background-color="white" align="left">
 <a href="https://codepen.io/lucasmaidana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lucasmaidana" height="30" width="40" /></a>
 <a href="https://twitter.com/lucasmmaidana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucasmmaidana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucasmaidana/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmaidana/" height="30" width="40" /></a>
@@ -27,7 +27,5 @@
 <a href="/http://feeds.feedburner.com/blog-design-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://feeds.feedburner.com/blog-design-" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmmaidana&show_icons=true&locale=en&layout=compact" alt="lucasmmaidana" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasmmaidana&show_icons=true&locale=en" alt="lucasmmaidana" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmmaidana&show_icons=true&locale=en&layout=compact" alt="lucasmmaidana" />&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasmmaidana&show_icons=true&locale=en" alt="lucasmmaidana" /></p>
 
